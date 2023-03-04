@@ -269,6 +269,8 @@ strong {
   color: var(--white-color);
   font-weight: var(--font-weight-bold);
   padding: 12px 24px;
+  margin-right: 25px;
+
 }
 
 .custom-btn:hover {
